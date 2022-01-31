@@ -8,8 +8,8 @@ $(function(){
             fixedContentPos: false
         });
         $('.gallery__slider').slick({
-            prevArrow:'<img class="slider__arrow left" src="../images/Arl.svg">',
-            nextArrow:'<img class="slider__arrow right" src="../images/Arr.svg">',
+            prevArrow:'<img class="slider__arrow left" src="images/Arl.svg">',
+            nextArrow:'<img class="slider__arrow right" src="images/Arr.svg">',
 
         });
         $('.gallery__item-inner').magnificPopup({
